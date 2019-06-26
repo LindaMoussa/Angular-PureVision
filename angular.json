@@ -23,9 +23,13 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/icofont/icofont.min.css",
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": ["node_modules/jquery/dist/jquery.min.js",
+              "node_modules/popper.js/dist/umd/popper.min.js",
+               "node_modules/bootstrap/dist/js/bootstrap.min.js"],
             "es5BrowserSupport": true
           },
           "configurations": {
@@ -52,7 +56,65 @@
                   "maximumError": "5mb"
                 }
               ]
+            },
+            "en":{          
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "aot": true,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+             "outputPath": "dist/purevision/en",
+             "i18nFile" : "src/locale/messages.en.xlf",
+             "i18nFormat": "xlf",
+             "i18nLocale" : "en",
+             "i18nMissingTranslation" : "error",
+             "baseHref": "/en/"
+
+            },
+            "ar":{          
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                },
+                {
+                  "replace": "src/app/app.component.css",
+                  "with": "src/app/app.component.ar.css"
+                },
+                {
+                  "replace": "src/app/navbar/navbar.component.css",
+                  "with": "src/app/navbar/navbar.component.ar.css"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "aot": true,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+             "outputPath": "dist/purevision/ar",
+             "i18nFile" : "src/locale/messages.ar.xlf",
+             "i18nFormat": "xlf",
+             "i18nLocale" : "ar",
+             "i18nMissingTranslation" : "error",
+             "baseHref": "/ar/"
+
+
             }
+
           }
         },
         "serve": {
@@ -63,7 +125,14 @@
           "configurations": {
             "production": {
               "browserTarget": "purevision:build:production"
+            },
+            "en": {
+              "browserTarget": "purevision:build:en"
+            },
+            "ar": {
+              "browserTarget": "purevision:build:ar"
             }
+
           }
         },
         "extract-i18n": {

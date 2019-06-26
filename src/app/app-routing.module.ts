@@ -1,7 +1,31 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-const routes: Routes = [];
+
+import { AppComponent } from './app.component';
+import { NavbarComponent } from './navbar/navbar.component';
+import { HomeComponent } from './home/home.component';
+import { FooterComponent } from './footer/footer.component';
+import { AboutusComponent } from './aboutus/aboutus.component';
+import { MobilesolutionComponent } from './mobilesolution/mobilesolution.component';
+import { WebsolutionComponent } from './websolution/websolution.component';
+import { DigitalmarketingComponent} from './digitalmarketing/digitalmarketing.component';
+import { ContactusComponent } from './contactus/contactus.component';
+import { JoinusComponent } from './joinus/joinus.component';
+import {ClientComponent } from './client/client.component';
+import { NotfoundComponent } from './notfound/notfound.component';
+
+const routes: Routes = [ 
+  {path:'home',component:HomeComponent},
+  {path:'aboutus',component:AboutusComponent},
+  {path:'mobile-development',component:MobilesolutionComponent},
+  {path:'web-development',component:WebsolutionComponent},
+  {path:'digital-marketing',component:DigitalmarketingComponent},
+  {path:'joinus',component:JoinusComponent},
+{path:'contactus',component:ContactusComponent},
+{path:'home/clients',component:ClientComponent},
+{path:'',component:HomeComponent},
+{path:'**',component:NotfoundComponent}];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

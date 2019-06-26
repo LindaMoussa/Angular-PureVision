@@ -1,0 +1,17 @@
+footer{
+    background-color: black;
+    color: #fff;
+    margin-bottom: 0;
+}
+footer .container .row{
+    padding-top: 3% ;
+    padding-bottom: 5%;
+
+}
+footer .social-media a i{
+    font-size: 30px;
+}
+footer .social-media a i:hover ,footer ul li a:hover{
+    color:#17a2b8;
+
+}

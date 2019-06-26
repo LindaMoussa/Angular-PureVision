@@ -1,0 +1,64 @@
+
+/* .slider-imgs img{
+    height: 600px !important;
+} */
+.rotated-img {
+    transition: all 1s;
+}
+.rotated-img:hover{
+    transform: rotate(360deg);
+}
+.services .solutions{
+    background-image: url("../../assets/Images/adults-analysis-brainstorming-1661004.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    position: relative;
+    background-attachment: fixed;
+}
+.services .solutions .layer{
+    background-color: rgba(0,0,0,0.3);
+    position:absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+.services .solutions .title{
+    color:white;
+}
+.serv-icon div{
+    /* border: 1px solid rgba(255,255,255,0.1); */
+    /* box-shadow: 2px 2px 5px rgba(255,255,255,0.1); */
+    text-align: center;
+    padding-bottom: 3%;
+    /* background-color: rgba(255,255,255,0.3); */
+}
+.serv-icon div:hover{
+    background-color: rgba(255,255,255,0.3);
+    border-radius: 10px;
+}
+.serv-icon a{
+    text-decoration: none;
+    color:#fff;
+}
+.serv-icon{
+    color:#fff;
+    font-size: 3.5rem;
+}
+.client{
+    margin: 6% 2%;
+}
+.client button{
+    box-shadow: 4px 4px 5px rgba(0,0,0,0.2);
+    padding: 1.5% 5%;
+    font-weight: 600;
+    font-size: 1.4rem;
+    border-radius: 5px;
+}
+
+@media screen and (max-width: 860px) {
+    .services .solutions{
+        height: 700px;
+    }
+  }

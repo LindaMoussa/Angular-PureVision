@@ -1,0 +1,31 @@
+nav.main-navbar{
+    background-color: #fff;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+}
+nav.main-navbar{
+    /* padding: 1.5% 5%;  */
+}
+.navbar-brand img{
+    height: 75px;
+}
+.navbar-brand{
+    padding-left: 10%;
+}
+nav.main-navbar li a{
+    color: rgba(0,0,0,0.7);
+    font-size: 1rem;
+    font-weight: 500;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.ar{
+    display: none;
+}
+ul.navbar-nav{
+    margin-left: auto;
+    padding-right: 5%;
+}
+ul li a:hover{
+    color:#17a2b8; 
+
+}

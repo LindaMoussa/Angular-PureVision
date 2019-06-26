@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
+        <source>Home</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/navbar/navbar.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="76f3dbd0b2d8f1d1003fcecfea9cf5b6f145e082" datatype="html">
+        <source>About us</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/navbar/navbar.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e4d6df9c49a028594bd2be6600e00e72c53e0f09" datatype="html">
+        <source>
+          Services
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/navbar/navbar.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="265eee710d05c3ed375002e3c4c1d5cff31e10e4" datatype="html">
+        <source>Web Development</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/navbar/navbar.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.html</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer/footer.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d33891f4fc92fd265f9acc7a62adf552f2a54b1a" datatype="html">
+        <source>Mobile Development</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/navbar/navbar.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.html</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6e8d3b518ff70956197265ede2b55f99b201ab76" datatype="html">
+        <source>Contact us</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/navbar/navbar.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7975b3ca1d0f39cbc5cf8beb37294d12b5bfe1a9" datatype="html">
+        <source>Join us</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/navbar/navbar.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c4852399339c2a5bdbe02060a682608f67225383" datatype="html">
+        <source>WHO ARE WE?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a9c53b7d3c3def80ee271866db0adb57c13e5cb6" datatype="html">
+        <source>pure vision IT Solutions is a leading specialist in the world of Information and Communications Technology (ICT), Information Security (InfoSec) and Innovative Business Solutions. 
+            pure vision IT Solutions is a provider of integrated IT Business solutions and managed services: we provide expert consultation on communications and collaboration, data center and cloud solutions, information and data management, and managed services. 
+            We offer dynamic services and specialized IT support and are committed to providing comprehensive solutions and services to midmarket businesses and focused strategic consulting services to enterprise businesses. 
+            pure vision ITS is able to offer both end-to-end solutions and needs-driven consultation.
+            In short, we help dynamic organizations align their IT services with their business requirements.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10f056dd9fa3ce236f04efd38ed65b33a8492181" datatype="html">
+        <source>Read more</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.html</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="de5f95820f7d6d2c7f5fe104c56e4cbdac90df2e" datatype="html">
+        <source>Business Solutions</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer/footer.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d644aba53018d28c6f397506e22973c76a935783" datatype="html">
+        <source>PERFECT SOLUTIONS FOR YOUR BUSINESS</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.html</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2673a5a4d4aac5e95b90136a50baf2f5b04c95fa" datatype="html">
+        <source>Be Our Client</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.html</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="76add251f4286651e358d33702a03f435bd87ddf" datatype="html">
+        <source>Mobile Develoment</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer/footer.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c2579a432443415ffef01d3e503600fb8e127aac" datatype="html">
+        <source>Pure Vision IT Solutions is a leading specialist in the world of Information and 
+            Communications Technology (ICT) 
+            , Information Security (InfoSec) and Innovation Advanced Solutions.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer/footer.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6f3cc0d8bc9b8ce4f0602d41d539fda964fd7ee2" datatype="html">
+        <source>Copyright 2018 Pure Vision © All Right Reserved
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer/footer.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a3b55970073ceeeb99efab4c75d53a8158146fc7" datatype="html">
+        <source>Honor to Present</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f515c233b94e02bf915d8cbdf995ac6025263bcd" datatype="html">
+        <source>Technology solutions suitable for all individuals and companies through a variety of technical services provided by a team that is characterized by integration, specialization, creative and cooperative 
+          and we are proud that we have a successful and honorable experience in
+           the service of our valued customers.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="36008ef0fa68732ad2b9efc61a61999b88bff3f1" datatype="html">
+        <source>Stay in Touch With Us</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contactus/contactus.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2c5ff8fa9c9aaec93f97e37c9a0edcd797194573" datatype="html">
+        <source>Send</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contactus/contactus.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/client/client.component.html</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="65cc4ab3b4c438e07c89be2b677d08369fb62da2" datatype="html">
+        <source>Welcome</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/client/client.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="484b0e541230d60ddb5fbd771a34a5c8d90e7a57" datatype="html">
+        <source>Full Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/client/client.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1990d5345c7a2899bcdba4f6c3f4b60aa093bf9f" datatype="html">
+        <source>Your Email</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/client/client.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="69afd485bc5034f67be85c1e76dabe1f16b65403" datatype="html">
+        <source>Mobile Number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/client/client.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d3948a8f3b1c3dce1684ccc19d08890fb8267997" datatype="html">
+        <source>Project Type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/client/client.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="847dffd493abbb2a5c71f3313f0eb730dd88a355" datatype="html">
+        <source>Web</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/client/client.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ee831ffd5e2b8dd286b4696d2acbf105aabd049f" datatype="html">
+        <source>Android</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/client/client.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aa488f7428e1ae11a11c5d6def0cd2445f5cc25c" datatype="html">
+        <source>IOS</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/client/client.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="84f64f26d4b4e040f0ca418bb766cf2120b052bd" datatype="html">
+        <source>Project Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/client/client.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2088e81e6d0414a8a53aed3f0574b31d6b7d92d6" datatype="html">
+        <source>Project Description
+                  </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/client/client.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b2893b6490d9cec6b6755381c67a4a82953193ef" datatype="html">
+        <source>Do You Have a Server?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/client/client.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4f20f2d5a6882190892e58b85f6ccbedfa737952" datatype="html">
+        <source>Yes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/client/client.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3d3ae7deebc5949b0c1c78b9847886a94321d9fd" datatype="html">
+        <source>No</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/client/client.component.html</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <!-- added manually
+      <trans-unit id="message-placeholder" datatype="html">
+  <source>Message</source>
+  <note priority="1" from="description">message-placeholder placeholder</note>
+</trans-unit>
+<trans-unit id="email-placeholder" datatype="html">
+  <source>Email</source>
+  <note priority="1" from="description">email-placeholder placeholder</note>
+</trans-unit>
+<trans-unit id="name-placeholder" datatype="html">
+  <source>Full Name</source>
+  <note priority="1" from="description">name-placeholder placeholder</note>
+</trans-unit> -->
+    </body>
+  </file>
+</xliff>
