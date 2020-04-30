@@ -24,7 +24,7 @@
     "core-js": "^2.5.4",
     "express": "^4.17.1",
     "install": "^0.12.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ngx-scrollbar": "^4.2.0",
     "popper.js": "^1.15.0",
     "rxjs": "~6.3.3",
